@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/damon/PycharmProjects/tensorflow-master/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/damon/.android/build-cache/baa86329241056cb6f8fad202fd88a823d112060/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/damon/PycharmProjects/tensorflow-master/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/damon/.android/build-cache/baa86329241056cb6f8fad202fd88a823d112060/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

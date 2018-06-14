@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/damon/PycharmProjects/tensorflow-master/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/damon/PycharmProjects/tensorflow-master/tensorflow/contrib/lite/java/demo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/damon/PycharmProjects/tensorflow-master/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_info.png",
+        "source": "/Users/damon/PycharmProjects/tensorflow-master/tensorflow/contrib/lite/java/demo/app/src/main/res/drawable-xxhdpi/ic_action_info.png"
+    }
+]

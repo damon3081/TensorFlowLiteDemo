@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/damon/PycharmProjects/tensorflow-master/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/damon/.android/build-cache/cd3d6d06df2c03923df9f4cd88faf90099acb292/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/damon/PycharmProjects/tensorflow-master/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/damon/.android/build-cache/cd3d6d06df2c03923df9f4cd88faf90099acb292/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
